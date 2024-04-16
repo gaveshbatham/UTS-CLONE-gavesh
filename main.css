@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Kanit:ital,wght@1,700&family=Koulen&family=Lato:ital,wght@1,100&family=Moon+Dance&family=Oxanium:wght@200&family=Poppins:wght@300;500&family=Tiro+Devanagari+Hindi&display=swap');
+
+ body,p,img{
+    margin: 0;
+    font-family: "Google Sans", Roboto, Helvetica, Arial, sans-serif;
+}
+body{
+    background-color: #fcfcfc;
+    
+}
+a{
+    color:unset;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.container{
+    max-width: 1366px;
+    display: flex;
+    margin: 0;
+}
+.flex{
+    display: flex;
+}
+.flex-c{
+    display: flex;
+    flex-direction: column;
+}
+.jc-between{
+    justify-content: space-between;
+}
+.jc-around{
+    justify-content:space-around;
+}
+.jc-center{
+    justify-content:center;
+}
+.text-align-center{
+    text-align: center;
+}
+.border{
+    border: 2px solid black;
+}
+.grad{
+    background-image: linear-gradient(to left,#f98e40,#ff7269);
+}
+.bg-orange{
+    background-color: #f98e40;
+}
+.bg-grey{
+    background-color: #f0efef; 
+}
+.bg-black{
+    background-color: black;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-purple{
+    background-color: purple;
+}
+.font-white{
+    color: white;
+}
+.font-black{
+    color: black;
+}
+.font-blue{
+    color: rgb(36, 36, 124);
+}
+.font-orange{
+    color: #f98e40;
+}
+.font-red{
+    color: red;
+}
+.font-pink{
+    color: rgb(248, 81, 218);
+}
+
+.font-size-1{
+    font-size: 16px;
+}
+.font-size-2{
+    font-size: 15px;
+}
+.font-size-14{
+    font-size: 14px;
+}
+
+.font-size-13{
+    font-size: 13px;
+}
+.font-size-3{
+    font-size: 12px;
+}
+.bolder{
+    font-weight: 600;
+}
+.bold{
+    font-weight: 300;
+}
+.thin{
+    font-weight:lighter;
+}
+.invart {
+    filter: invert(100%);
+ }
+ a{
+    text-decoration: none;
+ }
+
+
+/* header  */
+ .header{
+    padding: 2% 2%;
+    align-items: center;
+    justify-content: space-between;
+ }
+ .uts{
+    padding: 0 9% 0 0px;
+    /* min-width: 320px; */
+ }
+
+ 
+ .hr-grey {
+    background-color: #c7c7c7;
+    height: 3px;
+    margin: 0;
+    border: none;
+ }
+ .hr-light{
+    background-color: #8d8d8d;
+    height: 1.1px;
+    border: none;
+ }
+
+ .circle{
+    width: 40px;
+    height: 40px;
+ }
+
+ .width-32{
+    width: 32%;
+ }
+
+ /* card  */
+
+ .hide{
+    display: none;
+  }
+  .border-orange{
+    border-bottom: 1.5px solid #ff7269;
+  }
+
+  footer{
+    position: fixed;
+    bottom: 0;
+    border-top: 1px;
+    border-radius: 20px;
+    background-color: #ff7269;
+    z-index: 1;
+  }
+
+  /* radio  */
+
+  .form-controle {
+    display: grid;
+    grid-template-columns: 1em auto;
+    gap: 0.5em;
+  }
+
+  input[type="radio"] {
+    appearance: none;
+    background-color: #fff;
+    margin: 0;
+    font: inherit;
+    color: #f98e40;
+    width: 0.65em;
+    height: 0.65em;
+    border: 0.09em solid rgb(111, 111, 111);
+    border-radius: 50%;
+    font-weight: 500;
+    font-size: 1.8rem;
+    transform: translateY(-0.075em);
+    display: grid;
+  place-content: center;
+  }
+
+  input[type="radio"]::before {
+    content: "";
+    width: 0.25em;
+    height: 0.25em;
+    border-radius: 50%;
+    margin: 20px;
+    font-weight: 500;
+    font-size: 1.8rem;
+    transform: scale(0);
+    transition: 120ms transform ease-in-out;
+    box-shadow: inset .09em 0.09em #f98e40;
+    background-color: #f98e40;
+  }
+
+  input[type="radio"]:checked::before {
+    transform: scale(1);
+  }
+
+  input[type="radio"]:focus {
+    border-color: #f98e40! important;
+    background-color: white;
+  }
+  input[type="radio"]:checked {
+    border-color: #f98e40! important;
+    background-color: #ffffff;
+  }
+
+  /* help  */
+  .help{
+    width:fit-content ;
+    position: fixed;
+    right: 0;
+    bottom: 36px;
+    z-index: 2;
+    
+  }
+  .help-icon{
+    background-color: #ff6127;
+    border-radius: 100%;
+  }
+  .add{
+    min-height: 200px;
+  }
+
+
+  /* ticketing  */
+  .bg-booked{
+    background-image: url(./images/booked-bg.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 80px;
+  }
+   
+  .empty{
+    height: 20px;
+    min-width: 55px;
+  }
+  .hindi{
+    font-family: "Tiro Devanagari Hindi", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
