@@ -1,5 +1,5 @@
 
-let fare = 120;
+let fare = 130;
 let source = "Narmadapuram.";
 let source_hindi = "नर्मदापुरम";
 let destination = "Bhopal jn.";
