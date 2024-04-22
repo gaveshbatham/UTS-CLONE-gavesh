@@ -10,7 +10,7 @@ let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
 let date = "22/04/2024";
-let time = "05:56";
+let time = "08:40";
 let number = "9691497996";
 let distance = "54";
 
