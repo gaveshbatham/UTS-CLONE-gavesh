@@ -1,18 +1,18 @@
 
-let fare = 180 ;
-let source = "Ujjain JN.";
-let source_hindi = "उज्जैन";
-let destination = "Bhopal JN.";
-let destination_hindi = "भोपाल";
-let via = "MKC";
-let adult = 2;
+let fare = 50 ;
+let source = "Bhopal JN.";
+let source_hindi = "भोपाल";
+let destination = "Vidisha";
+let destination_hindi = "विदिशा";
+let via = "SUW";
+let adult = 1;
 let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
 let date = "24/04/2024";
-let time = "00:23";
+let time = "18:03";
 let number = "9691497996";
-let distance = "183";
+let distance = "53";
 
 
 
