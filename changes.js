@@ -1,16 +1,18 @@
 
+// Bhopal to Vidisha 
+
 let fare = 50 ;
-let source = "Vidisha";
-let source_hindi = "विदिशा";
-let destination = "Bhopal JN.";
-let destination_hindi = "भोपाल";
+let source = "Bhopal JN.";
+let source_hindi = "भोपाल";
+let destination = "Vidisha";
+let destination_hindi = "विदिशा";
 let via = "SUW";
 let adult = 1;
 let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
-let date = "25/04/2024";
-let time = "07:23";
+let date = "06/05/2024";
+let time = "17:43";
 let number = "9691497996";
 let distance = "53";
 
