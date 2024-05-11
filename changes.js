@@ -35,8 +35,8 @@ let adult = 1;
 let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
-let date = "08/05/2024";
-let time = "07:23";
+let date = "11/05/2024";
+let time = "16:23";
 let number = "9691497996";
 let distance = "53";
 
