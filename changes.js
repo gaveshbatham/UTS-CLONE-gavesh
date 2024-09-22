@@ -1,7 +1,7 @@
 
 // Bhopal to Vidisha 
 
-
+/*
 
 let fare = 50 ;
 let source = "Bhopal JN.";
@@ -18,11 +18,11 @@ let time = "17:37";
 let number = "9691497996";
 let distance = "53";
 
-
+*/
 
 
 // sant hirdaram to Vidisha 
-/*
+
 let fare = 180 ;
 let source = "BHOPAL JN";
 let source_hindi = "भोपाल";
@@ -39,7 +39,7 @@ let number = "9691497996";
 let distance = "74";
 
 
-*/
+
 
 
 
