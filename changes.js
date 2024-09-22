@@ -23,20 +23,20 @@ let distance = "53";
 
 // sant hirdaram to Vidisha 
 /*
-let fare = 55 ;
-let source = "S.HIRDARAMNAGAR JN.";
-let source_hindi = "स.हिरदारामनगर";
-let destination = "Vidisha";
-let destination_hindi = "विदिशा";
+let fare = 180 ;
+let source = "BHOPAL JN";
+let source_hindi = "भोपाल";
+let destination = "NARMADAPURAM";
+let destination_hindi = नर्मदापुरम";
 let via = "SUW";
-let adult = 1;
+let adult = 3;
 let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
-let date = "18/07/2024";
-let time = "17:33";
+let date = "23/09/2024";
+let time = "02:33";
 let number = "9691497996";
-let distance = "53";
+let distance = "74";
 
 
 */
