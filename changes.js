@@ -24,17 +24,17 @@ let distance = "53";
 // sant hirdaram to Vidisha 
 
 let fare = 180 ;
-let source = "BHOPAL JN";
-let source_hindi = "भोपाल";
-let destination = "NARMADAPURAM";
-let destination_hindi = "नर्मदापुरम";
+let source = "NARMADAPURAM";
+let source_hindi = "नर्मदापुरम";
+let destination = "BHOPAL";
+let destination_hindi = "भोपाल";
 let via = "SUW";
 let adult = 3;
 let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
 let date = "23/09/2024";
-let time = "02:33";
+let time = "07:53";
 let number = "9691497996";
 let distance = "74";
 
