@@ -34,7 +34,7 @@ let child = 0;
 let train = "Express";
 let train_hindi = "एक्सप्रेस";
 let date = "09/10/2024";
-let time = "04:33";
+let time = "04:09";
 let number = "9691497996";
 let distance = "239";
 
