@@ -23,7 +23,7 @@ let distance = "53";
 
 // sant hirdaram to Vidisha 
 
-let fare = 180 ;
+let fare = 270 ;
 let source = "BHOPAL JN";
 let source_hindi = "भोपाल";
 let destination = "DR AMBEDKAR NGR";
