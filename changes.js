@@ -23,17 +23,17 @@ let distance = "53";
 
 // sant hirdaram to Vidisha 
 
-let fare = 90 ;
+let fare = 180 ;
 let source = "BHOPAL JN";
 let source_hindi = "भोपाल";
 let destination = "DR AMBEDKAR NGR";
 let destination_hindi = "डॉ अंबेडकर नगर";
 let via = "MKC-DWX";
-let adult = 1;
+let adult = 3;
 let child = 0;
 let train = "Express";
 let train_hindi = "एक्सप्रेस";
-let date = "03/10/2024";
+let date = "09/10/2024";
 let time = "04:33";
 let number = "9691497996";
 let distance = "239";
