@@ -1,7 +1,7 @@
 
 // Bhopal to Vidisha 
 
-/*
+
 
 let fare = 50 ;
 let source = "Bhopal JN.";
@@ -13,16 +13,17 @@ let adult = 1;
 let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
-let date = "13/09/2024";
+let date = "05/11/2024";
 let time = "17:37";
 let number = "9691497996";
 let distance = "53";
 
-*/
+
 
 
 // sant hirdaram to Vidisha 
 
+/*
 let fare = 270 ;
 let source = "BHOPAL JN";
 let source_hindi = "भोपाल";
@@ -39,7 +40,7 @@ let number = "9691497996";
 let distance = "239";
 
 
-
+*/
 
 
 
